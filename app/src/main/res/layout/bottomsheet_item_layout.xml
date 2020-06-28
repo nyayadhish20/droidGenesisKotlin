@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/transperentBlack" />
+
+    <com.nyayadhish.droidgenesiskotlin.lib.utils.AppTextView
+        android:id="@+id/tv_title"
+        style="@style/text_regular_dark"
+        android:layout_width="match_parent"
+        android:paddingTop="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_10sdp"
+        android:textAlignment="center"
+        android:textColor="@color/textColorPinkLight"
+        android:textSize="@dimen/_14ssp"
+        />
+</LinearLayout>

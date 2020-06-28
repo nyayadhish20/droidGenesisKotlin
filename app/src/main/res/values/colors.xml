@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DF0700</color>
+    <color name="colorPrimaryDark">#DF0700</color>
+    <color name="colorAccent">#DF0700</color>
+    <color name="colorOpacAccent">#DF0700</color>
+    <color name="colorStatusBar">#CC0013</color>
+
+    <color name="white">#ffffff</color>
+    <color name="text_light">#231F20</color>
+    <color name="text_dark">#000000</color>
+    <color name="textColorPinkDark">#DF0700</color>
+    <color name="textColorPinkLight">#F4A8A6</color>
+    <color name="TextColorLightBlue">#7586A3</color>
+    <color name="backgroundColor">#EDF0F5</color>
+    <color name="textLightGrey">#9AA6BB</color>
+    <color name="slectionColor">#EDEDED</color>
+    <color name="transperentBlack">#80000000</color>
+    <color name="transperentWhite">#F2FFFFFF</color>
+    <color name="transperent">#00000000</color>
+
+    <color name="strokeColor">#D1D3D4</color>
+
+    <!--Introduction color code-->
+    <color name="DescriptionText">#231F20</color>
+
+    <!--search colorcode-->
+    <color name="dividerColor">#DEDEDE</color>
+    <color name="editTextBorderColor">#E9E9E9</color>
+    <color name="text_grey">#4A4A4A</color>
+    <color name="tooltipColor">#231F20</color>
+    <color name="colorBackgroundTintEdit">#BFBFBF</color>
+    <color name="borderAndDeviderColor">#979797</color>
+    <color name="semiTransparent">#80000000</color>
+
+    <!--Status color-->
+    <color name="orangeColor">#F05B2F</color>
+    <color name="orangeColornew">#F38723</color>
+    <color name="greenColor">#008000</color>
+    <color name="greenColornew">#1FBB49</color>
+
+    <color name="editTextBackgroundColor">#E9E9E9</color>
+    <color name="progress_tint">#DF0700</color>
+
+    <!--Follower button Background color -->
+    <color name="deleteBackgroundColor">#5B80C1</color>
+
+    <!-- language -->
+    <color name="select_languageColor">#FE7D7F</color>
+    <color name="unselected_language">#FEB9B9</color>
+
+    <!--Fragment My Profile-->
+    <color name="detailsButtoncolor">#00CCD4</color>
+
+    <!-- Rewards -->
+    <color name="rewardsTollbarColor">#FADD12</color>
+
+</resources>
